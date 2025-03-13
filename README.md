@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](resources\screenshot.jpg)
+![screenshot](resources/screenshot.jpg)
 
 A simple FAQ page displaying list of questions with answers.
 
